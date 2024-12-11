@@ -1,0 +1,14 @@
+creating virtual environment 
+
+>python -m venv gest
+>cd gest
+>scripts\activate
+
+move to project folder
+
+
+library installation
+
+pip install opencv-python mediapipe pyautogui pyttsx3 SpeechRecognition requests pyaudio pynput wikipedia comtypes pycaw protobuf screen-brightness-control
+
+python proton.py
